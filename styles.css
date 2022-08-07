@@ -8,7 +8,7 @@ body {
     color: white;
     margin: 0 auto;
   }
-  .header > p{
+  #header > p{
     font-weight: 300;
     font-size: 16px;
   }
