@@ -1,52 +1,49 @@
 body {
-    background-color: #2D2640;
-  }
+  background-color: #2d2640;
+}
 
-  .topnav {
-    background-color: #2D2640;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  #header{
-    margin: auto;
-    text-align: center;
-    font-weight: bold;
-    color: white;
-    margin: 0 auto;
-  }
-  #header > p{
-    font-weight: 300;
-    font-size: 16px;
-  }
-  .header-img{
-    width: 45%;
-    height: auto;
-    margin-left: 30%;
-    margin-right: 30%;
-    font-family: "Times New Roman", Times, serif;
-  }
-  .container{
+.topnav {
+  background-color: #2d2640;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#header {
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  color: white;
   margin: 0 auto;
-    text-align: left;
-    font-size: 16px;
-    width: 900px;
-    color: white;
-    
-
-  }
-  footer{
-    margin: 0 auto;
-    width: 500px;
-    color: white;
-    padding-top: 125px;
-  }
+}
+#header > p {
+  font-weight: 300;
+  font-size: 16px;
+}
+.header-img {
+  width: 45%;
+  height: auto;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: "Times New Roman", Times, serif;
+}
+.container {
+  margin: 0 auto;
+  text-align: left;
+  font-size: 16px;
+  width: 900px;
+  color: white;
+}
+footer {
+  margin: 0 auto;
+  width: 500px;
+  color: white;
+  padding-top: 125px;
+}
